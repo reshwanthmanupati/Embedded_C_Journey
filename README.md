@@ -1,4 +1,4 @@
-# embedded-c-journey
+# Embedded-C-journey
 
 A public log of me relearning **Embedded C from scratch** and moving on to **STM32 firmware development**, one day at a time.
 
