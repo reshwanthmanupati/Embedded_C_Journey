@@ -1,9 +1,11 @@
-# Compiled binaries and objects
-*.o
-*.out
-hello
-fork
-
-# Logs and generated data
-*.log
-process_log.*
+# Ignore everything by default
+*
+# ...but keep folders so git can look inside them
+!*/
+# ...and keep source, scripts, docs, build files
+!*.c
+!*.h
+!*.sh
+!*.md
+!Makefile
+!.gitignore
