@@ -1,0 +1,9 @@
+# Compiled binaries and objects
+*.o
+*.out
+hello
+fork
+
+# Logs and generated data
+*.log
+process_log.*
