@@ -2,8 +2,6 @@
 
 A public log of me relearning **Embedded C from scratch** and moving on to **STM32 firmware development**, one day at a time.
 
-I'm following a self-run 9-to-5 study routine, with daily commits as proof of work.
-
 ## Goals
 
 - Build a solid foundation in C, then embedded C (bit manipulation, pointers, structs, `volatile`, interrupts, state machines)
@@ -37,28 +35,6 @@ embedded-c-journey/
 └── README.md
 ```
 
-## Roadmap
-
-- [ ] K&R Chapters 1-3 with all exercises (Week 1 milestone)
-- [ ] K&R Chapters 4-8
-- [ ] Bit manipulation library
-- [ ] Pointers, structs, unions
-- [ ] `volatile`, `const`, memory-mapped registers
-- [ ] Ring buffer and state machine projects
-- [ ] STM32 GPIO at register level
-- [ ] STM32 UART, timers, interrupts
-- [ ] STM32 I2C and SPI with a sensor
-- [ ] First complete STM32 mini project
-
-## Daily routine
-
-| Time | Activity |
-|------|----------|
-| 9:00-10:45 | Embedded C concepts |
-| 11:00-12:30 | Coding exercises |
-| 1:30-3:30 | OS (OSTEP) |
-| 3:45-5:00 | Revision, commits, STM32 (from week 2) |
-| 5:00-5:30 | Daily log |
 
 ## Build and run
 
